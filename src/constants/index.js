@@ -112,26 +112,12 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: "React.js Developer",
-    company_name: "Personal Project — 3D Developer Portfolio",
-    icon: nxtwave,
-    iconBg: "#383E56",
-    date: "March 2025 - April 2025",
-    points: [
-      "Developed and maintained a 3D interactive portfolio website using React.js, Three.js, and Tailwind CSS.",
-      "Collaborated with designers and incorporated animations to enhance user experience and engagement.",
-      "Implemented responsive design for seamless performance across devices and browsers.",
-      "Utilized best practices in code organization and performance optimization.",
-      "Utilized best practices in code organization and performance optimization.",
-    ],
-  },
 {
   title: "Frontend Developer",
   company_name: "NxtWave — Wikipedia Search Application",
   icon: nxtwave,       // Replace with your actual icon import or path
   iconBg: "#F0DB4F",
-  date: "March 2023 - April 2023",
+  date: "December 2023 - January 2024",
   points: [
     "Developed a Wikipedia Search Application using HTML, CSS, and vanilla JavaScript.",
     "Integrated Wikipedia's API to fetch and display search results dynamically.",
@@ -144,7 +130,7 @@ const experiences = [
   company_name: "NxtWave — Jobby App",
   icon: nxtwave,       // Replace with your actual icon import or path
   iconBg: "#61DBFB",
-  date: "May 2023 - July 2023",
+  date: "April 2024 - May 2024",
   points: [
     "Developed a full-stack job listing application using React, Node.js, Express, and MongoDB.",
     "Created RESTful APIs and integrated frontend with backend services.",
@@ -157,7 +143,7 @@ const experiences = [
   company_name: "NxtWave — Nxt Trendz Project",
   icon: nxtwave,      // Replace with your actual icon import or path
   iconBg: "#4CAF50",
-  date: "August 2023 - October 2023",
+  date: "August 2024 - September 2024",
   points: [
     "Designed and developed a full-stack e-commerce platform with MERN stack.",
     "Implemented dynamic product listing, shopping cart, and payment integration.",
@@ -165,7 +151,20 @@ const experiences = [
     "Ensured cross-browser compatibility and mobile responsiveness."
   ],
 },
-
+  {
+    title: "React.js Developer",
+    company_name: "Personal Project — 3D Developer Portfolio",
+    icon: nxtwave,
+    iconBg: "#383E56",
+    date: "January 2025 - February 2025",
+    points: [
+      "Developed and maintained a 3D interactive portfolio website using React.js, Three.js, and Tailwind CSS.",
+      "Collaborated with designers and incorporated animations to enhance user experience and engagement.",
+      "Implemented responsive design for seamless performance across devices and browsers.",
+      "Utilized best practices in code organization and performance optimization.",
+      "Utilized best practices in code organization and performance optimization.",
+    ],
+  },
 ];
 
 const testimonials = [
