@@ -23,7 +23,7 @@ import threejs from "./tech/threejs.svg";
 
 import nxtwave from "./company/nxtwave.jpeg";
 import jobbyapp from "./company/jobbyapp.png"
-import nxttrendz from "./company/nxttrendz.jpeg"
+import nxttrendz from "./company/nxttrendz.png";
 import wikipedia from "./company/wikipedia.png"
 
 import carrent from "./carrent.png";
